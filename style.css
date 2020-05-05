@@ -1,0 +1,43 @@
+body
+{
+    background:#444444;
+    color:white;
+}
+h1{
+    text-align:center;
+}
+footer{
+    color:black;
+    text-align:center;
+}
+.h2-html
+{
+    color:white;
+}
+a
+{
+text-decoration:none;
+color:white;
+}
+a:hover
+{
+    background-color:grey;
+}
+.foto
+{
+    background-color:#444444;
+}
+.grey
+{
+    color:#666666;
+}
+.article-bgc
+{
+    background-color:#666666;
+}
+nav
+{
+padding:10px;
+margin-left:auto;
+margin-right:auto;
+}
